@@ -1,0 +1,10 @@
+# This should be added to Kirby's regular .htaccess file.
+
+# Deflate Compression by MimeType
+<IfModule mod_deflate.c>
+ <FilesMatch "\.(js|jpg|jpeg|gif|png|css)$">
+  ExpiresActive on
+  ExpiresDefault "access plus 1 month"
+  SetOutputFilter DEFLATE
+ </FilesMatch>
+</IfModule>
