@@ -1,0 +1,25 @@
+/* Info: http://humanstxt.org/ */
+
+/* TEAM */
+    Designer: Nils Neumann
+    Contact: mail [at] der-zyklop.de
+    Twitter: @DerZyklop
+    From: Mainz, Germany
+
+    Programmer: Nils Neumann
+    Contact: mail [at] der-zyklop.de
+    Twitter: @DerZyklop
+    From: Mainz, Germany
+
+    Photograph: Nils Neumann
+    Contact: mail [at] der-zyklop.de
+    Twitter: @DerZyklop
+    From: Mainz, Germany
+
+/* THANKS */
+
+    For all: Mum :)
+
+/* SITE */
+    Doctype: HTML5
+    IDE: Sublime Text 3, Terminal, Transmit, Sketch
