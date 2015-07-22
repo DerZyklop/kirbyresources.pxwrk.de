@@ -1,0 +1,5 @@
+﻿Title: Error 404
+
+----
+
+Text: Oh... die Seite die du suchst wurde nicht gefunden.
